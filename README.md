@@ -19,3 +19,7 @@ For the form, you will have 3 text boxes, two for the user’s numerical input a
 There will be an additional button, Clear.  In the event handler for the Clear button, clear the text boxes and operation label so your form is reset.  
 You will have labels which will present the title and describe the program input required from the user, and 2 labels which will appear to make an "equation" on the form. 
 Put your name and Program title in the Text property of Form1.
+
+# Sources:
+# Usage: 
+# Contributions: 
